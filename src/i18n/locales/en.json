@@ -70,6 +70,19 @@
     "title": "CLI Proxy API",
     "subtitle": "Management Center"
   },
+  "migration_prompt": {
+    "label": "CPA-Manager-Plus migration notice",
+    "title": "CPA-Manager-Plus is now available",
+    "body": "If you are considering migrating, review the demo, deployment path, and backup notes first. This panel can still be used as usual.",
+    "action": "View migration guide",
+    "links_label": "CPA-Manager-Plus evaluation links",
+    "links": {
+      "demo": "Live demo",
+      "quick_start": "Getting started",
+      "backup": "Backup notes"
+    },
+    "dismiss": "Don't show again"
+  },
   "auto_login": {
     "title": "Auto Login in Progress...",
     "message": "Attempting to connect to server using locally saved connection information"

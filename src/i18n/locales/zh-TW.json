@@ -69,6 +69,19 @@
     "title": "CLI Proxy API",
     "subtitle": "管理中心"
   },
+  "migration_prompt": {
+    "label": "CPA-Manager-Plus 遷移提示",
+    "title": "CPA-Manager-Plus 已正式發佈",
+    "body": "如果你準備升級，可以先看演示、部署方式和備份要點；目前面板仍可繼續使用。",
+    "action": "查看遷移指南",
+    "links_label": "CPA-Manager-Plus 評估連結",
+    "links": {
+      "demo": "線上演示",
+      "quick_start": "快速開始",
+      "backup": "備份要點"
+    },
+    "dismiss": "不再提示"
+  },
   "auto_login": {
     "title": "正在自動登入...",
     "message": "正在使用本地儲存的連線資訊嘗試連線伺服器"
